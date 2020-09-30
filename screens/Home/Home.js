@@ -1,6 +1,6 @@
 import React from "react";
 import {View, Text, StyleSheet, Button} from "react-native";
-import {TestService} from "../services/TestService.js";
+import {TestService} from "../../services/TestService.js";
 
 const Home = props => {
     const testService = new TestService();

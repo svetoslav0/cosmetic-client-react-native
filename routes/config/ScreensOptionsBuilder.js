@@ -1,7 +1,7 @@
-import { TAB_SCREENS_NAMES } from './TAB_SCREENS_NAMES.js';
-import { TAB_BAR_ICONS } from './TAB_BAR_ICONS.js';
+import { TAB_BAR_ICONS } from '../../constants/TAB_BAR_ICONS.js';
 import FontAwesome from 'react-native-vector-icons/FontAwesome'
 import AntDesign from 'react-native-vector-icons/AntDesign.js';
+import SimpleLineIcons from 'react-native-vector-icons/SimpleLineIcons.js';
 
 import React from "react";
 
